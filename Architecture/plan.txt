@@ -1,0 +1,4 @@
+User - has data. 
+    Wallet - Have an amount of money in their wallet to transact 
+    Data - Has some type of information that the buyer would want. Includes a description of the data
+    (possible) Description - description of the data if it's not in the data tab 
