@@ -1,3 +1,4 @@
+/* eslint-disable node/no-unpublished-import */
 import * as dotenv from "dotenv";
 
 import { HardhatUserConfig, task } from "hardhat/config";
